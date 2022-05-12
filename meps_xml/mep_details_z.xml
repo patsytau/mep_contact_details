@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Chrysoula ZACHAROPOULOU</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197499</id>
+    <nationalPoliticalGroup bodyCode="EM">La République en marche</nationalPoliticalGroup>
+    <birthDate>07/05/1976</birthDate>
+    <birthPlace>Sparte</birthPlace>
+    <eContact type="EMA">chrysoula.zacharopoulou@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>04M081</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45573</phone>
+      <fax>0032 2 28 49573</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02019</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75573</phone>
+      <fax>0033 3 88 1 79573</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Theodoros ZAGORAKIS</fullName>
+    <country countryCode="GR">Greece</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>125067</id>
+    <nationalPoliticalGroup bodyCode="N.D.">Nea Demokratia</nationalPoliticalGroup>
+    <birthDate>27/10/1971</birthDate>
+    <birthPlace>Kavala</birthPlace>
+    <eContact type="URL">http://www.thodoris-zagorakis.com/</eContact>
+    <eContact type="EMA">theodoros.zagorakis@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/th.zagorakis</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09E154</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45461</phone>
+      <fax>0032 2 28 49461</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09016</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75461</phone>
+      <fax>0033 3 88 1 79461</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jan ZAHRADIL</fullName>
+    <country countryCode="CZ">Czechia</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>23712</id>
+    <nationalPoliticalGroup bodyCode="ODS">Občanská demokratická strana</nationalPoliticalGroup>
+    <birthDate>20/03/1963</birthDate>
+    <birthPlace>Praha</birthPlace>
+    <eContact type="EMA">jan.zahradil@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.zahradil.cz</eContact>
+    <eContact type="FBP">https://www.facebook.com/zahradil</eContact>
+    <eContact type="TWT">https://twitter.com/ZahradilJan</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>04U012</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45666</phone>
+      <fax>0032 2 28 49666</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G02035A</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75666</phone>
+      <fax>0033 3 88 1 79666</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Anna ZALEWSKA</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>197572</id>
+    <nationalPoliticalGroup bodyCode="PiS">Prawo i Sprawiedliwość</nationalPoliticalGroup>
+    <birthDate>06/07/1965</birthDate>
+    <birthPlace>Świebodzice</birthPlace>
+    <eContact type="EMA">anna.zalewska@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/annazalewskamep</eContact>
+    <eContact type="FBW">www.facebook.com/AnnaZalewskaPiS</eContact>
+    <eContact type="IST">www.instagram.com/annazalewskamep/</eContact>
+    <eContact type="URL">www.anna-zalewska.eu</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>05U049</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45515</phone>
+      <fax>0032 2 28 49515</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G03039</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75515</phone>
+      <fax>0033 3 88 1 79515</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Stefania ZAMBELLI</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197586</id>
+    <nationalPoliticalGroup bodyCode="L">Lega</nationalPoliticalGroup>
+    <eContact type="EMA">stefania.zambelli@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/scrivizambelli</eContact>
+    <eContact type="IST">http://picdeer.com/zambelli_stefania_lega</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>06F366</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45881</phone>
+      <fax>0032 2 28 49881</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G06032</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75881</phone>
+      <fax>0033 3 88 1 79881</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Marco ZANNI</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>124780</id>
+    <nationalPoliticalGroup bodyCode="L">Lega</nationalPoliticalGroup>
+    <birthPlace>Lovere (BG)</birthPlace>
+    <eContact type="EMA">marco.zanni@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/Marcozanni86</eContact>
+    <eContact type="FBW">https://www.facebook.com/marcozanniofficial</eContact>
+    <eContact type="IST">https://instagram.com/marcozanniofficial?utm_medium=copy_link</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>06F356</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45597</phone>
+      <fax>0032 2 28 49597</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G06035A</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75597</phone>
+      <fax>0033 3 88 1 79597</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Javier ZARZALEJOS</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197606</id>
+    <nationalPoliticalGroup bodyCode="PP">Partido Popular</nationalPoliticalGroup>
+    <birthDate>06/06/1960</birthDate>
+    <birthPlace>Bilbao</birthPlace>
+    <eContact type="EMA">javier.zarzalejos@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/fzarzalejos</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10E165</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45634</phone>
+      <fax>0032 2 28 49634</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10006</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75634</phone>
+      <fax>0033 3 88 1 79634</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Tatjana ŽDANOKA</fullName>
+    <country countryCode="LV">Latvia</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>28619</id>
+    <nationalPoliticalGroup bodyCode="LKS">Latvijas Krievu savienība</nationalPoliticalGroup>
+    <birthDate>08/05/1950</birthDate>
+    <birthPlace>Rīga</birthPlace>
+    <eContact type="EMA">tatjana.zdanoka@europarl.europa.eu</eContact>
+    <eContact type="URL">https://rusojuz.lv/en/</eContact>
+    <eContact type="FBW">https://www.facebook.com/tatjana.zdanoka</eContact>
+    <eContact type="TWT">https://twitter.com/Tatjana_Zdanoka</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G153</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45322</phone>
+      <fax>0032 2 28 49322</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M01036</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75322</phone>
+      <fax>0033 3 88 1 79322</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Tomáš ZDECHOVSKÝ</fullName>
+    <country countryCode="CZ">Czechia</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>124713</id>
+    <nationalPoliticalGroup bodyCode="KDU-ČSL">Křesťanská a demokratická unie - Československá strana lidová</nationalPoliticalGroup>
+    <birthDate>02/11/1979</birthDate>
+    <birthPlace>Havlíčkův Brod</birthPlace>
+    <eContact type="URL">http://www.zdechovsky.eu/</eContact>
+    <eContact type="EMA">tomas.zdechovsky@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/tomaszdechovsky/</eContact>
+    <eContact type="TWT">https://twitter.com/TomasZdechovsky</eContact>
+    <eContact type="IST">https://www.instagram.com/tomaszdechovsky/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07F155</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45780</phone>
+      <fax>0032 2 28 49780</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08085</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75780</phone>
+      <fax>0033 3 88 1 79780</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Roberts ZĪLE</fullName>
+    <country countryCode="LV">Latvia</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>28615</id>
+    <nationalPoliticalGroup bodyCode="TB/LNNK">Nacionālā apvienība "Visu Latvijai!"-"Tēvzemei un Brīvībai/LNNK"</nationalPoliticalGroup>
+    <birthDate>20/06/1958</birthDate>
+    <birthPlace>Rīga</birthPlace>
+    <eContact type="EMA">roberts.zile@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12E259</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45224</phone>
+      <fax>0032 2 28 49224</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T12009</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75224</phone>
+      <fax>0033 3 88 1 79224</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Bernhard ZIMNIOK</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197489</id>
+    <nationalPoliticalGroup bodyCode="AfD">Alternative für Deutschland</nationalPoliticalGroup>
+    <birthDate>21/06/1953</birthDate>
+    <birthPlace>Schnaittenbach</birthPlace>
+    <eContact type="EMA">bernhard.zimniok@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05F243</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45772</phone>
+      <fax>0032 2 28 49772</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03039</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75772</phone>
+      <fax>0033 3 88 1 79772</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Kosma ZŁOTOWSKI</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>124884</id>
+    <nationalPoliticalGroup bodyCode="PiS">Prawo i Sprawiedliwość</nationalPoliticalGroup>
+    <birthDate>14/01/1964</birthDate>
+    <birthPlace>Bydgoszcz</birthPlace>
+    <eContact type="EMA">kosma.zlotowski@europarl.europa.eu</eContact>
+    <eContact type="URL">http://kosmazlotowski.eu/?utm_source=europarl</eContact>
+    <eContact type="FBP">https://www.facebook.com/kosmazlotowski</eContact>
+    <eContact type="TWT">https://twitter.com/KosmaZlotowski</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>06U045</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45775</phone>
+      <fax>0032 2 28 49775</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G03035A</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75775</phone>
+      <fax>0033 3 88 1 79775</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Juan Ignacio ZOIDO ÁLVAREZ</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197621</id>
+    <nationalPoliticalGroup bodyCode="PP">Partido Popular</nationalPoliticalGroup>
+    <birthDate>21/01/1957</birthDate>
+    <birthPlace>Montellano - Sevilla</birthPlace>
+    <eContact type="EMA">juanignacio.zoidoalvarez@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/zoido/</eContact>
+    <eContact type="TWT">https://twitter.com/zoidoji</eContact>
+    <eContact type="IST">https://www.instagram.com/zoidoji/</eContact>
+    <eContact type="URL">http://www.pp.es/juan-ignacio-zoido</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10E116</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45148</phone>
+      <fax>0032 2 28 49148</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10010</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75148</phone>
+      <fax>0033 3 88 1 79148</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Carlos ZORRINHO</fullName>
+    <country countryCode="PT">Portugal</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>124739</id>
+    <nationalPoliticalGroup bodyCode="PS">Partido Socialista</nationalPoliticalGroup>
+    <birthDate>28/05/1959</birthDate>
+    <birthPlace>Obidos</birthPlace>
+    <eContact type="EMA">carlos.zorrinho@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/czorrinho</eContact>
+    <eContact type="FBP">https://www.facebook.com/czorrinho</eContact>
+    <eContact type="BLG">http://www.fazeracontecer.net/index.php</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13G146</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45260</phone>
+      <fax>0032 2 28 49260</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07089</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75260</phone>
+      <fax>0033 3 88 1 79260</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Željana ZOVKO</fullName>
+    <country countryCode="HR">Croatia</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>185341</id>
+    <nationalPoliticalGroup bodyCode="HDZ">Hrvatska demokratska zajednica</nationalPoliticalGroup>
+    <eContact type="EMA">zeljana.zovko@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.zeljanazovko.eu/</eContact>
+    <eContact type="TWT">https://twitter.com/ZovkoEU</eContact>
+    <eContact type="FBW">https://www.facebook.com/zeljanazovko.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/zeljazov/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12E202</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45579</phone>
+      <fax>0032 2 28 49579</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08037</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75579</phone>
+      <fax>0033 3 88 1 79579</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Marco ZULLO</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>125237</id>
+    <nationalPoliticalGroup bodyCode="Independent">Independent</nationalPoliticalGroup>
+    <birthDate>29/10/1978</birthDate>
+    <birthPlace>Verona</birthPlace>
+    <eContact type="EMA">marco.zullo@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>07M095</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45348</phone>
+      <fax>0032 2 28 49348</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02093</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75348</phone>
+      <fax>0033 3 88 1 79348</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Milan ZVER</fullName>
+    <country countryCode="SI">Slovenia</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>96933</id>
+    <nationalPoliticalGroup bodyCode="SDS">Slovenska demokratska stranka</nationalPoliticalGroup>
+    <birthDate>25/05/1962</birthDate>
+    <birthPlace>Ljubljana</birthPlace>
+    <eContact type="FBW">https://www.facebook.com/milan.zver</eContact>
+    <eContact type="URL">http://www.milanzver.eu/</eContact>
+    <eContact type="EMA">milan.zver@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/MilanZver</eContact>
+    <eContact type="URL">https://www.milanzver.eu/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>14E242</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45315</phone>
+      <fax>0032 2 28 49315</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T13065</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75315</phone>
+      <fax>0033 3 88 1 79315</fax>
+    </address>
+  </mep>
+</meps>

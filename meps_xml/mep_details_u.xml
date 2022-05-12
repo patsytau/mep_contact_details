@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Milan UHRÍK</fullName>
+    <country countryCode="SK">Slovakia</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>197763</id>
+    <nationalPoliticalGroup bodyCode="HREP">Hnutie Republika</nationalPoliticalGroup>
+    <eContact type="EMA">milan.uhrik@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://sk-sk.facebook.com/ing.milan.uhrik</eContact>
+    <eContact type="TWT">https://twitter.com/MilanUhrik</eContact>
+    <eContact type="YTB">https://www.youtube.com/c/MilanUhr%C3%ADkPhD</eContact>
+    <eContact type="IST">https://instagram.com/uhrikmilan?utm_medium=copy_link</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07H158</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45918</phone>
+      <fax>0032 2 28 49918</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G05013</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75918</phone>
+      <fax>0033 3 88 1 79918</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>István UJHELYI</fullName>
+    <country countryCode="HU">Hungary</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>124705</id>
+    <nationalPoliticalGroup bodyCode="MSZP">Magyar Szocialista Párt</nationalPoliticalGroup>
+    <birthDate>28/02/1975</birthDate>
+    <eContact type="EMA">istvan.ujhelyi@europarl.europa.eu</eContact>
+    <eContact type="URL">https://ujhelyi.eu/hu/koszonto</eContact>
+    <eContact type="IST">https://www.instagram.com/istvan.ujhelyi.official</eContact>
+    <eContact type="FBW">https://www.facebook.com/dr.ujhelyi.istvan</eContact>
+    <eContact type="TWT">https://twitter.com/istvan_ujhelyi</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G246</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45649</phone>
+      <fax>0032 2 28 49649</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05041</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75649</phone>
+      <fax>0033 3 88 1 79649</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Miguel URBÁN CRESPO</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="The Left">The Left group in the European Parliament - GUE/NGL</politicalGroup>
+    <id>131507</id>
+    <nationalPoliticalGroup bodyCode="ANTICAPITALISTAS">ANTICAPITALISTAS</nationalPoliticalGroup>
+    <birthDate>26/03/1980</birthDate>
+    <eContact type="EMA">miguel.urbancrespo@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/MiguelUrban</eContact>
+    <eContact type="FBP">https://www.facebook.com/miguel.urban.79</eContact>
+    <eContact type="URL">http://www.miguelurban.net</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>02M045</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45682</phone>
+      <fax>0032 2 28 49682</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G04035A</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75682</phone>
+      <fax>0033 3 88 1 79682</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Ernest URTASUN</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>124972</id>
+    <nationalPoliticalGroup bodyCode="Catalunya en Comú">Catalunya en Comú</nationalPoliticalGroup>
+    <birthDate>27/01/1982</birthDate>
+    <eContact type="FBW">https://www.facebook.com/eurtasun</eContact>
+    <eContact type="TWT">https://twitter.com/ernesturtasun</eContact>
+    <eContact type="EMA">ernest.urtasun@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/e_urtasun/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G318</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45798</phone>
+      <fax>0032 2 28 49798</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M03052</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75798</phone>
+      <fax>0033 3 88 1 79798</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Nils UŠAKOVS</fullName>
+    <country countryCode="LV">Latvia</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197810</id>
+    <nationalPoliticalGroup bodyCode="Saskaņa SDP">"Saskaņa" sociāldemokrātiskā partija</nationalPoliticalGroup>
+    <birthDate>08/06/1976</birthDate>
+    <birthPlace>RIGA</birthPlace>
+    <eContact type="EMA">nils.usakovs@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G209</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45409</phone>
+      <fax>0032 2 28 49409</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08002</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75409</phone>
+      <fax>0033 3 88 1 79409</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Viktor USPASKICH</fullName>
+    <country countryCode="LT">Lithuania</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>96698</id>
+    <nationalPoliticalGroup bodyCode="Darbo partija">Darbo partija</nationalPoliticalGroup>
+    <birthDate>24/07/1959</birthDate>
+    <birthPlace>Vilnius</birthPlace>
+    <eContact type="EMA">viktor.uspaskich@europarl.europa.eu</eContact>
+    <eContact type="TWT">http://twitter.com/ViktorUspaskich</eContact>
+    <eContact type="FBP">https://www.facebook.com/people/Viktor-Uspaskich/100004808381839</eContact>
+    <eContact type="URL">https://www.uspaskich.eu/</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>03U010</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45339</phone>
+      <fax>0032 2 28 49339</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G04002</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75339</phone>
+      <fax>0033 3 88 1 79339</fax>
+    </address>
+  </mep>
+</meps>

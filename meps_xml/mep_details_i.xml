@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Ivars IJABS</fullName>
+    <country countryCode="LV">Latvia</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197624</id>
+    <nationalPoliticalGroup bodyCode="AP!">Attīstībai/Par!</nationalPoliticalGroup>
+    <birthDate>17/11/1972</birthDate>
+    <birthPlace>Riga</birthPlace>
+    <eContact type="EMA">ivars.ijabs@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/ijabs</eContact>
+    <eContact type="FBP">https://www.facebook.com/ijabs.ivars/</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>06M061</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45309</phone>
+      <fax>0032 2 28 49309</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M03106</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75309</phone>
+      <fax>0033 3 88 1 79309</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Ladislav ILČIĆ</fullName>
+    <country countryCode="HR">Croatia</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>221463</id>
+    <nationalPoliticalGroup bodyCode="HS">Hrvatski suverenisti</nationalPoliticalGroup>
+    <birthDate>04/08/1970</birthDate>
+    <eContact type="EMA">ladislav.ilcic@europarl.europa.eu</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>02U041</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45636</phone>
+      <fax>0032 2 28 49636</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G01026</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75636</phone>
+      <fax>0033 3 88 1 79636</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Evin INCIR</fullName>
+    <country countryCode="SE">Sweden</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197392</id>
+    <nationalPoliticalGroup bodyCode="SAP">Arbetarepartiet- Socialdemokraterna</nationalPoliticalGroup>
+    <birthDate>15/06/1984</birthDate>
+    <birthPlace>Diyarbakir</birthPlace>
+    <eContact type="EMA">evin.incir@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12G265</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45219</phone>
+      <fax>0032 2 28 49219</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05014</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75219</phone>
+      <fax>0033 3 88 1 79219</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Sophia IN 'T VELD</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>28266</id>
+    <nationalPoliticalGroup bodyCode="D66">Democraten 66</nationalPoliticalGroup>
+    <birthDate>13/09/1963</birthDate>
+    <birthPlace>Vollenhove</birthPlace>
+    <eContact type="EMA">sophie.intveld@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.sophieintveld.eu</eContact>
+    <eContact type="TWT">https://twitter.com/SophieintVeld</eContact>
+    <eContact type="FBW">https://www.facebook.com/sophieintveld</eContact>
+    <eContact type="IST">https://www.instagram.com/sophie.intveld/</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>06M055</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45796</phone>
+      <fax>0032 2 28 49796</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M06069</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75796</phone>
+      <fax>0033 3 88 1 79796</fax>
+    </address>
+  </mep>
+</meps>

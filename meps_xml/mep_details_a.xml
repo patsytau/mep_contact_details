@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Magdalena ADAMOWICZ</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197490</id>
+    <nationalPoliticalGroup bodyCode="Independent">Independent</nationalPoliticalGroup>
+    <birthPlace>Slupsk</birthPlace>
+    <eContact type="EMA">magdalena.adamowicz@europarl.europa.eu</eContact>
+    <eContact type="URL">https://adamowiczmagdalena.pl</eContact>
+    <eContact type="IST">https://www.instagram.com/adamowicz_magda</eContact>
+    <eContact type="FBW">https://www.facebook.com/adamowicz.magdalena</eContact>
+    <eContact type="TWT">https://twitter.com/Adamowicz_Magda</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E158</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45378</phone>
+      <fax>0032 2 28 49378</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10046</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75378</phone>
+      <fax>0033 3 88 1 79378</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Asim ADEMOV</fullName>
+    <country countryCode="BG">Bulgaria</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>189525</id>
+    <nationalPoliticalGroup bodyCode="GERB">Citizens for European Development of Bulgaria</nationalPoliticalGroup>
+    <birthDate>03/12/1968</birthDate>
+    <birthPlace>Dubnitsa</birthPlace>
+    <eContact type="EMA">asim.ademov@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/AdemovAsim/</eContact>
+    <eContact type="TWT">https://twitter.com/AdemovAsim</eContact>
+    <eContact type="IST">https://www.instagram.com/ademovasim/</eContact>
+    <eContact type="URL">http://asim-ademov.eu/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08F158</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45248</phone>
+      <fax>0032 2 28 49248</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09015</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75248</phone>
+      <fax>0033 3 88 1 79248</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Isabella ADINOLFI</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>124831</id>
+    <nationalPoliticalGroup bodyCode="FI">Forza Italia</nationalPoliticalGroup>
+    <eContact type="EMA">isabella.adinolfi@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/Isa_Adinolfi</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12E165</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45714</phone>
+      <fax>0032 2 28 49714</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10049</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75714</phone>
+      <fax>0033 3 88 1 79714</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Matteo ADINOLFI</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197826</id>
+    <nationalPoliticalGroup bodyCode="L">Lega</nationalPoliticalGroup>
+    <birthDate>24/12/1963</birthDate>
+    <birthPlace>Latina</birthPlace>
+    <eContact type="EMA">matteo.adinolfi@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/MatteoAdinolfiLega</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>06F266</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45338</phone>
+      <fax>0032 2 28 49338</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G05019</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75338</phone>
+      <fax>0033 3 88 1 79338</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Alex AGIUS SALIBA</fullName>
+    <country countryCode="MT">Malta</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197403</id>
+    <nationalPoliticalGroup bodyCode="PL">Partit Laburista</nationalPoliticalGroup>
+    <birthDate>31/01/1988</birthDate>
+    <birthPlace>Pieta</birthPlace>
+    <eContact type="EMA">alex.agiussaliba@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/alexagiussaliba</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12G351</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45536</phone>
+      <fax>0032 2 28 49536</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07036</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75536</phone>
+      <fax>0033 3 88 1 79536</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Mazaly AGUILAR</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>198096</id>
+    <nationalPoliticalGroup bodyCode="VOX">VOX</nationalPoliticalGroup>
+    <birthDate>20/09/1949</birthDate>
+    <birthPlace>Cuenca</birthPlace>
+    <eContact type="EMA">mazaly.aguilar@europarl.europa.eu</eContact>
+    <eContact type="LNK">https://www.linkedin.com/in/mazaly-aguilar</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>07U043</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45793</phone>
+      <fax>0032 2 28 49793</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G01037</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75793</phone>
+      <fax>0033 3 88 1 79793</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Clara AGUILERA</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>125045</id>
+    <nationalPoliticalGroup bodyCode="PSOE">Partido Socialista Obrero Español</nationalPoliticalGroup>
+    <birthDate>03/01/1964</birthDate>
+    <birthPlace>Granada</birthPlace>
+    <eContact type="EMA">claraeugenia.aguileragarcia@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/profile.php?id=100001665941538</eContact>
+    <eContact type="TWT">https://twitter.com/ClaraAguilera7</eContact>
+    <eContact type="IST">https://www.instagram.com/claraaguilera/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>14G130</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45783</phone>
+      <fax>0032 2 28 49783</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07145</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75783</phone>
+      <fax>0033 3 88 1 79783</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Scott AINSLIE</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197696</id>
+    <nationalPoliticalGroup bodyCode="GP">Green Party</nationalPoliticalGroup>
+    <birthDate>27/12/1968</birthDate>
+    <birthPlace>Edinburgh</birthPlace>
+    <eContact type="EMA">scott.ainslie@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/ScottMEPLondon</eContact>
+    <eContact type="EMA">scott4london@gmail.com</eContact>
+    <eContact type="IST">https://www.instagram.com/scott.ainslie.73/?igshid=7h9zagfcmqkj</eContact>
+    <eContact type="URL">www.scottainsliemep.org.uk</eContact>
+    <eContact type="FBW">https://www.facebook.com/ScottMEPLondon</eContact>
+    <eContact type="YTB">https://www.youtube.com/channel/UCFT-ln6xOnMFE983Rpt13dA</eContact>
+  </mep>
+  <mep>
+    <fullName>Alviina ALAMETSÄ</fullName>
+    <country countryCode="FI">Finland</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>204335</id>
+    <nationalPoliticalGroup bodyCode="VIHR">Vihreä liitto</nationalPoliticalGroup>
+    <birthDate>29/09/1992</birthDate>
+    <eContact type="EMA">alviina.alametsa@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/alviinaalametsa/</eContact>
+    <eContact type="FBW">https://www.facebook.com/alviinavaaleissa/</eContact>
+    <eContact type="YTB">https://www.youtube.com/channel/UCOWeLAjpkIS8786LOCFGbew</eContact>
+    <eContact type="TWT">https://twitter.com/alviinaalametsa</eContact>
+    <eContact type="URL">https://www.alviina.fi/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G116</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45285</phone>
+      <fax>0032 2 28 49285</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03073</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75285</phone>
+      <fax>0033 3 88 1 79285</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Alexander ALEXANDROV YORDANOV</fullName>
+    <country countryCode="BG">Bulgaria</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197836</id>
+    <nationalPoliticalGroup bodyCode="SDS">Union of Democratic Forces</nationalPoliticalGroup>
+    <birthDate>13/02/1952</birthDate>
+    <birthPlace>Varna</birthPlace>
+    <eContact type="URL">http://www.alexanderyordanov.com/</eContact>
+    <eContact type="BLG">https://vek21press.com/</eContact>
+    <eContact type="EMA">alexander.yordanov@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08F136</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45259</phone>
+      <fax>0032 2 28 49259</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09008</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75259</phone>
+      <fax>0033 3 88 1 79259</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>François ALFONSI</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>96750</id>
+    <nationalPoliticalGroup bodyCode="RPS">Régions et Peuples Solidaires</nationalPoliticalGroup>
+    <birthDate>14/09/1953</birthDate>
+    <birthPlace>Ajaccio</birthPlace>
+    <eContact type="EMA">francois.alfonsi@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G165</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45490</phone>
+      <fax>0032 2 28 49490</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M01030</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75490</phone>
+      <fax>0033 3 88 1 79490</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Atidzhe ALIEVA-VELI</fullName>
+    <country countryCode="BG">Bulgaria</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197848</id>
+    <nationalPoliticalGroup bodyCode="DPS">Movement for Rights and Freedoms</nationalPoliticalGroup>
+    <birthDate>18/09/1981</birthDate>
+    <birthPlace>Devin</birthPlace>
+    <eContact type="EMA">atidzhe.alieva-veli@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>03M035</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45695</phone>
+      <fax>0032 2 28 49695</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M05031</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75695</phone>
+      <fax>0033 3 88 1 79695</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Christian ALLARD</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197644</id>
+    <nationalPoliticalGroup bodyCode="SNP">Scottish National Party</nationalPoliticalGroup>
+    <birthDate>31/03/1964</birthDate>
+    <birthPlace>Dijon</birthPlace>
+    <eContact type="EMA">christian.allard@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/christia_allard</eContact>
+    <eContact type="FBW">https://www.facebook.com/Christian-Allard-SNP-188389381206166</eContact>
+    <eContact type="LNK">https://uk.linkedin.com/in/christian-allard-91931332</eContact>
+    <eContact type="IST">https://www.instagram.com/christianguyallard</eContact>
+  </mep>
+  <mep>
+    <fullName>Abir AL-SAHLANI</fullName>
+    <country countryCode="SE">Sweden</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197400</id>
+    <nationalPoliticalGroup bodyCode="C">Centerpartiet</nationalPoliticalGroup>
+    <birthDate>18/05/1976</birthDate>
+    <birthPlace>Basra</birthPlace>
+    <eContact type="EMA">abir.alsahlani@europarl.europa.eu</eContact>
+    <eContact type="URL">www.abiralsahlani.se</eContact>
+    <eContact type="FBP">https://www.facebook.com/abirtillbryssel/</eContact>
+    <eContact type="TWT">https://twitter.com/abiralsahlani</eContact>
+    <eContact type="URL">https://www.instagram.com/abiralsahlani/</eContact>
+    <eContact type="FBW">https://www.facebook.com/abiribryssel/</eContact>
+    <eContact type="YTB">https://www.youtube.com/channel/UCsHWeFfKVAlYghODL7WbVwQ/</eContact>
+    <eContact type="IST">https://www.instagram.com/abiralsahlani/</eContact>
+    <eContact type="LNK">https://www.linkedin.com/in/abiralsahlani/</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>07M043</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45507</phone>
+      <fax>0032 2 28 49507</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02074</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75507</phone>
+      <fax>0033 3 88 1 79507</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Álvaro AMARO</fullName>
+    <country countryCode="PT">Portugal</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197746</id>
+    <nationalPoliticalGroup bodyCode="PSD">Partido Social Democrata</nationalPoliticalGroup>
+    <birthDate>25/05/1953</birthDate>
+    <birthPlace>Coimbra</birthPlace>
+    <eContact type="EMA">alvaro.amaro@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/alvaroamaroeu/</eContact>
+    <eContact type="FBW">https://www.facebook.com/pg/alvaroamaro.eu</eContact>
+    <eContact type="TWT">https://twitter.com/alvaroamaroEU</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08E116</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45765</phone>
+      <fax>0032 2 28 49765</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09078</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75765</phone>
+      <fax>0033 3 88 1 79765</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Andris AMERIKS</fullName>
+    <country countryCode="LV">Latvia</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197783</id>
+    <nationalPoliticalGroup bodyCode="Gods">Gods kalpot Rīgai</nationalPoliticalGroup>
+    <birthDate>05/03/1961</birthDate>
+    <birthPlace>Riga</birthPlace>
+    <eContact type="EMA">andris.ameriks@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/AndrisAmeriks</eContact>
+    <eContact type="FBW">https://www.facebook.com/Andris.Ameriks/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G253</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45826</phone>
+      <fax>0032 2 28 49826</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08086</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75826</phone>
+      <fax>0033 3 88 1 79826</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Christine ANDERSON</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197475</id>
+    <nationalPoliticalGroup bodyCode="AfD">Alternative für Deutschland</nationalPoliticalGroup>
+    <birthPlace>Eschwege</birthPlace>
+    <eContact type="EMA">christine.anderson@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/Christine.Anderson.AfD/</eContact>
+    <eContact type="URL">https://www.christineanderson.eu</eContact>
+    <eContact type="TWT">https://twitter.com/andersonafdmdep</eContact>
+    <eContact type="EMA">christine.anderson-office@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/christine._anderson/</eContact>
+    <eContact type="TLG">https://t.me/christineanderson</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05F158</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45841</phone>
+      <fax>0032 2 28 49841</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03019</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75841</phone>
+      <fax>0033 3 88 1 79841</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Martina ANDERSON</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="GUE/NGL">Group of the European United Left - Nordic Green Left</politicalGroup>
+    <id>113959</id>
+    <nationalPoliticalGroup bodyCode="SF">Sinn Fein</nationalPoliticalGroup>
+    <birthDate>16/04/1962</birthDate>
+    <eContact type="EMA">martina.anderson@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/M_AndersonSF</eContact>
+    <eContact type="FBW">https:://www.facebook.com/MartinaSFEurope</eContact>
+  </mep>
+  <mep>
+    <fullName>Heather ANDERSON</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>204371</id>
+    <nationalPoliticalGroup bodyCode="SNP">Scottish National Party</nationalPoliticalGroup>
+    <birthDate>31/01/1959</birthDate>
+    <birthPlace>Dundee</birthPlace>
+    <eContact type="EMA">heather.anderson@scotborders.gov.uk</eContact>
+    <eContact type="EMA">heather.anderson@europarl.europa.eu</eContact>
+  </mep>
+  <mep>
+    <fullName>Rasmus ANDRESEN</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197448</id>
+    <nationalPoliticalGroup bodyCode="GRÜNE.">Bündnis 90/Die Grünen</nationalPoliticalGroup>
+    <birthDate>20/02/1986</birthDate>
+    <birthPlace>Essen</birthPlace>
+    <eContact type="EMA">rasmus.andresen@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/gruenrasmus</eContact>
+    <eContact type="TWT">https://twitter.com/RasmusAndresen</eContact>
+    <eContact type="YTB">https://www.youtube.com/user/RasmusAndresen</eContact>
+    <eContact type="FBW">https://www.facebook.com/AndresenRasmus/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08G115</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45373</phone>
+      <fax>0032 2 28 49373</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M01094</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75373</phone>
+      <fax>0033 3 88 1 79373</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Barry ANDREWS</fullName>
+    <country countryCode="IE">Ireland</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>204332</id>
+    <nationalPoliticalGroup bodyCode="FF">Fianna Fáil Party</nationalPoliticalGroup>
+    <birthDate>16/05/1967</birthDate>
+    <birthPlace>Dublin</birthPlace>
+    <eContact type="EMA">barry.andrews@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>02M057</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45618</phone>
+      <fax>0032 2 28 49618</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M06079</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75618</phone>
+      <fax>0033 3 88 1 79618</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Eric ANDRIEU</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>113892</id>
+    <nationalPoliticalGroup bodyCode="PS">Parti socialiste</nationalPoliticalGroup>
+    <birthDate>14/04/1960</birthDate>
+    <birthPlace>Narbonne</birthPlace>
+    <eContact type="EMA">eric.andrieu@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/ericandrieu</eContact>
+    <eContact type="TWT">https://twitter.com/Eric_Andrieu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>11G116</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45170</phone>
+      <fax>0032 2 28 49170</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T06071</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75170</phone>
+      <fax>0033 3 88 1 79170</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Mathilde ANDROUËT</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197691</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>03/07/1984</birthDate>
+    <birthPlace>Rueil Malmaison</birthPlace>
+    <eContact type="EMA">mathilde.androuet@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/elsa.vassent</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>04F343</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45337</phone>
+      <fax>0032 2 28 49337</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07032</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75337</phone>
+      <fax>0033 3 88 1 79337</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Nikos ANDROULAKIS</fullName>
+    <country countryCode="GR">Greece</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>125110</id>
+    <nationalPoliticalGroup bodyCode="KINAL">PASOK-KINAL</nationalPoliticalGroup>
+    <birthDate>07/02/1979</birthDate>
+    <birthPlace>Athina</birthPlace>
+    <eContact type="EMA">nikos.androulakis@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.nikos.vote/</eContact>
+    <eContact type="TWT">https://twitter.com/androulakisnick</eContact>
+    <eContact type="FBW">https://www.facebook.com/androulakisnikosgr/</eContact>
+    <eContact type="IST">https://www.instagram.com/androulakisnick/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>11G253</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45340</phone>
+      <fax>0032 2 28 49340</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T06013</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75340</phone>
+      <fax>0033 3 88 1 79340</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Marc ANGEL</fullName>
+    <country countryCode="LU">Luxembourg</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>202073</id>
+    <nationalPoliticalGroup bodyCode="LSAP">Parti ouvrier socialiste luxembourgeois</nationalPoliticalGroup>
+    <birthDate>12/03/1963</birthDate>
+    <birthPlace>Luxembourg-Ville</birthPlace>
+    <eContact type="EMA">marc.angel@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/MarcAngelLuxembourg/</eContact>
+    <eContact type="TWT">https://twitter.com/marcangel_lu</eContact>
+    <eContact type="IST">https://www.instagram.com/marcangelluxembourg/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13G258</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45513</phone>
+      <fax>0032 2 28 49513</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08008</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75513</phone>
+      <fax>0033 3 88 1 79513</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Gerolf ANNEMANS</fullName>
+    <country countryCode="BE">Belgium</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>124973</id>
+    <nationalPoliticalGroup bodyCode="Vlaams Belang">Vlaams Belang</nationalPoliticalGroup>
+    <birthDate>08/11/1958</birthDate>
+    <birthPlace>Antwerpen</birthPlace>
+    <eContact type="EMA">gerolf.annemans@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07H141</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45700</phone>
+      <fax>0032 2 28 49700</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G05030</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75700</phone>
+      <fax>0033 3 88 1 79700</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Andrus ANSIP</fullName>
+    <country countryCode="EE">Estonia</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>124696</id>
+    <nationalPoliticalGroup bodyCode="ER">Eesti Reformierakond</nationalPoliticalGroup>
+    <birthDate>01/10/1956</birthDate>
+    <birthPlace>Tartu</birthPlace>
+    <eContact type="EMA">andrus.ansip@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/Ansip_EU</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>03M059</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45567</phone>
+      <fax>0032 2 28 49567</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02069</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75567</phone>
+      <fax>0033 3 88 1 79567</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Attila ARA-KOVÁCS</fullName>
+    <country countryCode="HU">Hungary</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197587</id>
+    <nationalPoliticalGroup bodyCode="DK">Demokratikus Koalíció</nationalPoliticalGroup>
+    <birthDate>14/01/1953</birthDate>
+    <birthPlace>Oradea</birthPlace>
+    <eContact type="EMA">attila.ara-kovacs@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G242</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45318</phone>
+      <fax>0032 2 28 49318</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05028</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75318</phone>
+      <fax>0033 3 88 1 79318</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Maria ARENA</fullName>
+    <country countryCode="BE">Belgium</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>124936</id>
+    <nationalPoliticalGroup bodyCode="PS">Parti Socialiste</nationalPoliticalGroup>
+    <birthDate>17/12/1966</birthDate>
+    <birthPlace>Mons</birthPlace>
+    <eContact type="EMA">maria.arena@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.mariearena.eu/</eContact>
+    <eContact type="TWT">https://twitter.com/Mariearenaps</eContact>
+    <eContact type="FBP">https://www.facebook.com/Marie-Arena</eContact>
+    <eContact type="IST">https://www.instagram.com/mariearenaps/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>15G305</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45690</phone>
+      <fax>0032 2 28 49690</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T12044</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75690</phone>
+      <fax>0033 3 88 1 79690</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Pablo ARIAS ECHEVERRÍA</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>96808</id>
+    <nationalPoliticalGroup bodyCode="PP">Partido Popular</nationalPoliticalGroup>
+    <birthDate>30/06/1970</birthDate>
+    <birthPlace>Madrid</birthPlace>
+    <eContact type="EMA">pablo.ariasecheverria@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10E140</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45198</phone>
+      <fax>0032 2 28 49198</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10086</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75198</phone>
+      <fax>0033 3 88 1 79198</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Pascal ARIMONT</fullName>
+    <country countryCode="BE">Belgium</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>24922</id>
+    <nationalPoliticalGroup bodyCode="CSP">Christlich Soziale Partei</nationalPoliticalGroup>
+    <birthDate>25/09/1974</birthDate>
+    <birthPlace>Malmedy</birthPlace>
+    <eContact type="EMA">pascal.arimont@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/pascalarimont.official</eContact>
+    <eContact type="TWT">https://twitter.com/pascal_arimont</eContact>
+    <eContact type="IST">https://www.instagram.com/pascalarimontmep/</eContact>
+    <eContact type="URL">https://pascal-arimont.eu/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08E218</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45778</phone>
+      <fax>0032 2 28 49778</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T11005</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75778</phone>
+      <fax>0033 3 88 1 79778</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Bartosz ARŁUKOWICZ</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197492</id>
+    <nationalPoliticalGroup bodyCode="PO">Platforma Obywatelska</nationalPoliticalGroup>
+    <birthDate>30/12/1971</birthDate>
+    <birthPlace>Resko</birthPlace>
+    <eContact type="EMA">biuro@arlukowicz.pl</eContact>
+    <eContact type="EMA">bartosz.arlukowicz@europarl.europa.eu</eContact>
+    <eContact type="FBW">www.facebook.com/bartosz.arlukowicz</eContact>
+    <eContact type="TWT">https://twitter.com/Arlukowicz</eContact>
+    <eContact type="IST">https://www.instagram.com/bartek_arlukowicz</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E108</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45704</phone>
+      <fax>0032 2 28 49704</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10038</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75704</phone>
+      <fax>0033 3 88 1 79704</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Clotilde ARMAND</fullName>
+    <country countryCode="RO">Romania</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197664</id>
+    <nationalPoliticalGroup bodyCode="USR">Uniunea Salvați România</nationalPoliticalGroup>
+    <birthDate>28/06/1973</birthDate>
+    <birthPlace>București</birthPlace>
+    <eContact type="EMA">clotilde.armand@europarl.europa.eu</eContact>
+    <eContact type="EMA">contact@clotildearmand.ro</eContact>
+    <eContact type="FBW">https://www.facebook.com/clotildearmand.ro/</eContact>
+    <eContact type="EMA">clotilde.armand@gmail.com</eContact>
+    <eContact type="TWT">https://twitter.com/clotilde_armand</eContact>
+    <eContact type="BLG">http://clotildearmand.ro</eContact>
+    <eContact type="IST">https://www.instagram.com/clotildearmand.ro/?hl=ro</eContact>
+    <eContact type="YTB">https://www.youtube.com/channel/UCT-CvCV5urQbgOkknUJLqzg/featured</eContact>
+  </mep>
+  <mep>
+    <fullName>Konstantinos ARVANITIS</fullName>
+    <country countryCode="GR">Greece</country>
+    <politicalGroup bodyCode="The Left">The Left group in the European Parliament - GUE/NGL</politicalGroup>
+    <id>197701</id>
+    <nationalPoliticalGroup bodyCode="SYRIZA">Coalition of the Radical Left</nationalPoliticalGroup>
+    <birthDate>09/06/1964</birthDate>
+    <birthPlace>Athens</birthPlace>
+    <eContact type="EMA">kostas.arvanitissyriza@gmail.com</eContact>
+    <eContact type="EMA">konstantinos.arvanitis@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/karvanitis16/</eContact>
+    <eContact type="FBW">https://www.facebook.com/arvanitis.kostas</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>01H347</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45787</phone>
+      <fax>0032 2 28 49787</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G00016</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75787</phone>
+      <fax>0033 3 88 1 79787</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Anna-Michelle ASIMAKOPOULOU</fullName>
+    <country countryCode="GR">Greece</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197695</id>
+    <nationalPoliticalGroup bodyCode="N.D.">Nea Demokratia</nationalPoliticalGroup>
+    <birthDate>27/03/1967</birthDate>
+    <birthPlace>New York</birthPlace>
+    <eContact type="EMA">anna-misel.asimakopoulou@europarl.europa.eu</eContact>
+    <eContact type="URL">www.asimakopoulou.gr</eContact>
+    <eContact type="TWT">https://twitter.com/annaasimakopoul</eContact>
+    <eContact type="FBW">https://www.facebook.com/AnnaMichelleAsimakopoulou/</eContact>
+    <eContact type="FBP">https://www.facebook.com/people/Άννα-Μισέλ-Ασημακοπούλου/100004316856957</eContact>
+    <eContact type="IST">https://www.instagram.com/anna_michelle_nd/?hl=en</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09E158</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45675</phone>
+      <fax>0032 2 28 49675</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09012</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75675</phone>
+      <fax>0033 3 88 1 79675</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Manon AUBRY</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="The Left">The Left group in the European Parliament - GUE/NGL</politicalGroup>
+    <id>197533</id>
+    <nationalPoliticalGroup bodyCode="LFI">La France Insoumise</nationalPoliticalGroup>
+    <birthDate>22/12/1989</birthDate>
+    <birthPlace>Frejus</birthPlace>
+    <eContact type="EMA">manon.aubry@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/manonaubryfr</eContact>
+    <eContact type="FBW">https://www.facebook.com/ManonAubryFR</eContact>
+    <eContact type="TWT">https://twitter.com/manonaubryfr</eContact>
+    <eContact type="YTB">https://www.youtube.com/channel/UCyX-_BipdNpdFgeZEQBNstA/featured</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07H357</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45748</phone>
+      <fax>0032 2 28 49748</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G00035A</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75748</phone>
+      <fax>0033 3 88 1 79748</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Margrete AUKEN</fullName>
+    <country countryCode="DK">Denmark</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>28161</id>
+    <nationalPoliticalGroup bodyCode="F">Socialistisk Folkeparti</nationalPoliticalGroup>
+    <eContact type="EMA">margrete.auken@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/MargreteAuken</eContact>
+    <eContact type="FBW">https://www.facebook.com/margreteauken</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G154</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45327</phone>
+      <fax>0032 2 28 49327</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03099</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75327</phone>
+      <fax>0033 3 88 1 79327</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Petras AUŠTREVIČIUS</fullName>
+    <country countryCode="LT">Lithuania</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>124766</id>
+    <nationalPoliticalGroup bodyCode="LRLS">Lietuvos Respublikos liberalų sąjūdis</nationalPoliticalGroup>
+    <birthDate>16/05/1963</birthDate>
+    <birthPlace>Vilnius</birthPlace>
+    <eContact type="EMA">petras.austrevicius@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.austrevicius.lt</eContact>
+    <eContact type="TWT">https://twitter.com/petras_petras</eContact>
+    <eContact type="FBW">https://www.facebook.com/PetroAustreviciausbiuras</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>06M021</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45611</phone>
+      <fax>0032 2 28 49611</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M05090</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75611</phone>
+      <fax>0033 3 88 1 79611</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Carmen AVRAM</fullName>
+    <country countryCode="RO">Romania</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197651</id>
+    <nationalPoliticalGroup bodyCode="PSD">Partidul Social Democrat</nationalPoliticalGroup>
+    <birthDate>08/05/1966</birthDate>
+    <birthPlace>Viseu de Sus</birthPlace>
+    <eContact type="EMA">carmen-gabriela.avram@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G103</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45292</phone>
+      <fax>0032 2 28 49292</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08151</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75292</phone>
+      <fax>0033 3 88 1 79292</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Malik AZMANI</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197781</id>
+    <nationalPoliticalGroup bodyCode="VVD">Volkspartij voor Vrijheid en Democratie</nationalPoliticalGroup>
+    <birthDate>20/01/1976</birthDate>
+    <birthPlace>Heerenveen</birthPlace>
+    <eContact type="EMA">malik.azmani@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/MalikAzmaniVVD</eContact>
+    <eContact type="TWT">https://twitter.com/MalikAzmani</eContact>
+    <address>
+      <building>PAUL-HENRI SPAAK</building>
+      <office>55C029</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45761</phone>
+      <fax>0032 2 28 49761</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M06091</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75761</phone>
+      <fax>0033 3 88 1 79761</fax>
+    </address>
+  </mep>
+</meps>

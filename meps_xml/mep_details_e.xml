@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Karoline EDTSTADLER</fullName>
+    <country countryCode="AT">Austria</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197643</id>
+    <nationalPoliticalGroup bodyCode="ÖVP">Österreichische Volkspartei</nationalPoliticalGroup>
+    <birthPlace>Salzburg</birthPlace>
+    <eContact type="EMA">karoline.edtstadler@europarl.europa.eu</eContact>
+  </mep>
+  <mep>
+    <fullName>Christian EHLER</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>28226</id>
+    <nationalPoliticalGroup bodyCode="CDU">Christlich Demokratische Union Deutschlands</nationalPoliticalGroup>
+    <birthDate>17/08/1963</birthDate>
+    <birthPlace>München</birthPlace>
+    <eContact type="EMA">christian.ehler@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/ehler/</eContact>
+    <eContact type="URL">https://ehler.eu/</eContact>
+    <eContact type="TWT">https://twitter.com/mep_ehler</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>15E154</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45325</phone>
+      <fax>0032 2 28 49325</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T11065</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75325</phone>
+      <fax>0033 3 88 1 79325</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Bas EICKHOUT</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>96725</id>
+    <nationalPoliticalGroup bodyCode="GroenLinks">GroenLinks</nationalPoliticalGroup>
+    <birthDate>08/10/1976</birthDate>
+    <eContact type="EMA">bas.eickhout@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/BasEickhout</eContact>
+    <eContact type="URL">https://groenlinks.nl/mensen/bas-eickhout</eContact>
+    <eContact type="FBW">https://www.facebook.com/bas.eickhout</eContact>
+    <eContact type="FBP">https://www.facebook.com/bas.eickhout</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G301</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45365</phone>
+      <fax>0032 2 28 49365</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M03060</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75365</phone>
+      <fax>0033 3 88 1 79365</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Cyrus ENGERER</fullName>
+    <country countryCode="MT">Malta</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>209091</id>
+    <nationalPoliticalGroup bodyCode="PL">Partit Laburista</nationalPoliticalGroup>
+    <birthDate>28/09/1981</birthDate>
+    <birthPlace>Pietà</birthPlace>
+    <eContact type="URL">http://cyrusengerer.com/</eContact>
+    <eContact type="FBW">https://www.facebook.com/engerer.cyrus/</eContact>
+    <eContact type="TWT">https://twitter.com/engerer</eContact>
+    <eContact type="LNK">https://www.linkedin.com/in/cyrusengerer</eContact>
+    <eContact type="IST">https://www.instagram.com/engerer/</eContact>
+    <eContact type="EMA">cyrus.engerer@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12G317</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45635</phone>
+      <fax>0032 2 28 49635</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07069</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75635</phone>
+      <fax>0033 3 88 1 79635</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Andrew ENGLAND KERR</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>197803</id>
+    <nationalPoliticalGroup bodyCode="Independent">Independent</nationalPoliticalGroup>
+    <birthDate>23/09/1958</birthDate>
+    <birthPlace>Birmingham</birthPlace>
+    <eContact type="EMA">andrew.kerr@europarl.europa.eu</eContact>
+  </mep>
+  <mep>
+    <fullName>Derk Jan EPPINK</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>97133</id>
+    <nationalPoliticalGroup bodyCode="JA21">JA21</nationalPoliticalGroup>
+    <birthDate>07/11/1958</birthDate>
+    <eContact type="EMA">derk-jan.eppink@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/djeppink</eContact>
+  </mep>
+  <mep>
+    <fullName>Cornelia ERNST</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="The Left">The Left group in the European Parliament - GUE/NGL</politicalGroup>
+    <id>96852</id>
+    <nationalPoliticalGroup bodyCode="DIE LINKE.">DIE LINKE.</nationalPoliticalGroup>
+    <eContact type="EMA">cornelia.ernst@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/ernstcornelia?lang=en</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>01H340</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45660</phone>
+      <fax>0032 2 28 49660</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G00028</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75660</phone>
+      <fax>0033 3 88 1 79660</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Engin EROGLU</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197430</id>
+    <nationalPoliticalGroup bodyCode="Freie Wähler">Freie Wähler</nationalPoliticalGroup>
+    <birthPlace>Schwalmstadt</birthPlace>
+    <eContact type="EMA">engin.eroglu@freiewaehler-hessen.de</eContact>
+    <eContact type="EMA">engin.eroglu@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/EnginEroglu.FREIEWAEHLER/</eContact>
+    <eContact type="IST">https://www.instagram.com/engin_eroglu_/</eContact>
+    <eContact type="TWT">https://twitter.com/engineroglu_fw</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>03M023</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45475</phone>
+      <fax>0032 2 28 49475</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M03077</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75475</phone>
+      <fax>0033 3 88 1 79475</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Ismail ERTUG</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>96842</id>
+    <nationalPoliticalGroup bodyCode="SPD">Sozialdemokratische Partei Deutschlands</nationalPoliticalGroup>
+    <birthDate>05/12/1975</birthDate>
+    <birthPlace>Amberg</birthPlace>
+    <eContact type="EMA">ismail.ertug@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.ertug.eu</eContact>
+    <eContact type="FBP">http://www.facebook.com/ertug.eu</eContact>
+    <eContact type="TWT">https://twitter.com/IsmailErtug</eContact>
+    <eContact type="YTB">https://www.youtube.com/user/IsmailErtug</eContact>
+    <eContact type="IST">https://www.instagram.com/ertug.eu/</eContact>
+    <eContact type="LNK">https://be.linkedin.com/in/ismail-ertug-mep-ba0a4228</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12G165</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45547</phone>
+      <fax>0032 2 28 49547</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07017</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75547</phone>
+      <fax>0033 3 88 1 79547</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Rosa ESTARÀS FERRAGUT</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>96811</id>
+    <nationalPoliticalGroup bodyCode="PP">Partido Popular</nationalPoliticalGroup>
+    <birthDate>21/10/1965</birthDate>
+    <eContact type="EMA">rosa.estaras@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/rosaestaras/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10E115</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45163</phone>
+      <fax>0032 2 28 49163</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10153</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75163</phone>
+      <fax>0033 3 88 1 79163</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jill EVANS</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>4550</id>
+    <nationalPoliticalGroup bodyCode="Plaid Cymru">Plaid Cymru - Party of Wales</nationalPoliticalGroup>
+    <birthDate>08/05/1959</birthDate>
+    <birthPlace>Ystrad Rhondda (Wales)</birthPlace>
+    <eContact type="FBW">https://www.facebook.com/pages/Jill-Evans-ASEMEP/297073923675496</eContact>
+    <eContact type="URL">http://www.jillevans.net/</eContact>
+    <eContact type="YTB">https://www.youtube.com/user/JillEvansASEMEP</eContact>
+    <eContact type="TWT">https://twitter.com/JillEvansMEP</eContact>
+    <eContact type="EMA">Jill.evans@europarl.europa.eu</eContact>
+    <eContact type="EMA">darren@jillevans.net</eContact>
+  </mep>
+  <mep>
+    <fullName>Eleonora EVI</fullName>
+    <country countryCode="IT">Italy</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>124779</id>
+    <nationalPoliticalGroup bodyCode="E.Verde">Europa Verde</nationalPoliticalGroup>
+    <birthDate>20/11/1983</birthDate>
+    <birthPlace>Milano</birthPlace>
+    <eContact type="EMA">eleonora.evi@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/eleonora.evi/</eContact>
+    <eContact type="FBW">https://www.facebook.com/EleonoraEviEuroparl</eContact>
+    <eContact type="TWT">https://twitter.com/eleonoraevi</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G157</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45290</phone>
+      <fax>0032 2 28 49290</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03069</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75290</phone>
+      <fax>0033 3 88 1 79290</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Agnès EVREN</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197535</id>
+    <nationalPoliticalGroup bodyCode="Les Républicains">Les Républicains</nationalPoliticalGroup>
+    <birthDate>27/12/1970</birthDate>
+    <birthPlace>Paris</birthPlace>
+    <eContact type="EMA">agnes.evren@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/agnesevren</eContact>
+    <eContact type="FBP">https://www.facebook.com/agnesevren</eContact>
+    <eContact type="URL">https://agnesevren.eu/</eContact>
+    <eContact type="IST">https://www.instagram.com/agnes.evren/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09E210</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45464</phone>
+      <fax>0032 2 28 49464</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09032</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75464</phone>
+      <fax>0033 3 88 1 79464</fax>
+    </address>
+  </mep>
+</meps>

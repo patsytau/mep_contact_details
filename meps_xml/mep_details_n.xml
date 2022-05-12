@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Caroline NAGTEGAAL</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>190519</id>
+    <nationalPoliticalGroup bodyCode="VVD">Volkspartij voor Vrijheid en Democratie</nationalPoliticalGroup>
+    <birthDate>01/06/1980</birthDate>
+    <birthPlace>Utrecht</birthPlace>
+    <eContact type="EMA">caroline.nagtegaal@europarl.europa.eu</eContact>
+    <eContact type="URL">www.carolinenagtegaal.nl</eContact>
+    <eContact type="FBW">https://www.facebook.com/caroline.vandoorn.7</eContact>
+    <eContact type="TWT">https://twitter.com/c_nagtegaal?lang=en</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>05M107</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45221</phone>
+      <fax>0032 2 28 49221</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M06103</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75221</phone>
+      <fax>0033 3 88 1 79221</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Javier NART</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>125005</id>
+    <nationalPoliticalGroup bodyCode="Independiente">Independiente</nationalPoliticalGroup>
+    <birthDate>19/08/1947</birthDate>
+    <birthPlace>Laredo</birthPlace>
+    <eContact type="EMA">javier.nart@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>05M083</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45811</phone>
+      <fax>0032 2 28 49811</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M05053</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75811</phone>
+      <fax>0033 3 88 1 79811</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Victor NEGRESCU</fullName>
+    <country countryCode="RO">Romania</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>88882</id>
+    <nationalPoliticalGroup bodyCode="PSD">Partidul Social Democrat</nationalPoliticalGroup>
+    <eContact type="EMA">victor.negrescu@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://it-it.facebook.com/victornegrescu/</eContact>
+    <eContact type="TWT">https://twitter.com/negrescuvictor</eContact>
+    <eContact type="IST">https://www.instagram.com/victor_negrescu/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13G201</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45711</phone>
+      <fax>0032 2 28 49711</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05073</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75711</phone>
+      <fax>0033 3 88 1 79711</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Lucy NETHSINGHA</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197604</id>
+    <nationalPoliticalGroup bodyCode="LD">Liberal Democrats</nationalPoliticalGroup>
+    <birthDate>06/02/1973</birthDate>
+    <birthPlace>Southampton</birthPlace>
+    <eContact type="EMA">lucy.nethsingha@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/lnethsingha</eContact>
+  </mep>
+  <mep>
+    <fullName>Hannah NEUMANN</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197464</id>
+    <nationalPoliticalGroup bodyCode="GRÜNE.">Bündnis 90/Die Grünen</nationalPoliticalGroup>
+    <birthDate>03/04/1984</birthDate>
+    <birthPlace>Speyer</birthPlace>
+    <eContact type="EMA">hannah.neumann@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.hannahneumann.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/hannah_lberg</eContact>
+    <eContact type="FBP">https://facebook.com/HannahNeumann.LBerg/</eContact>
+    <eContact type="TWT">https://twitter.com/HNeumannMEP</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08G202</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45705</phone>
+      <fax>0032 2 28 49705</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M01072</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75705</phone>
+      <fax>0033 3 88 1 79705</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Norbert NEUSER</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>96844</id>
+    <nationalPoliticalGroup bodyCode="SPD">Sozialdemokratische Partei Deutschlands</nationalPoliticalGroup>
+    <birthDate>22/03/1949</birthDate>
+    <birthPlace>Boppard</birthPlace>
+    <eContact type="EMA">norbert.neuser@europarl.europa.eu</eContact>
+    <eContact type="BLG">http://www.norbert-neuser.de/</eContact>
+    <eContact type="FBP">https://www.facebook.com/norbert.neuser</eContact>
+  </mep>
+  <mep>
+    <fullName>Bill NEWTON DUNN</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>1394</id>
+    <nationalPoliticalGroup bodyCode="LD">Liberal Democrats</nationalPoliticalGroup>
+    <eContact type="EMA">bill.newtondunn@europarl.europa.eu</eContact>
+  </mep>
+  <mep>
+    <fullName>Dan NICA</fullName>
+    <country countryCode="RO">Romania</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>124784</id>
+    <nationalPoliticalGroup bodyCode="PSD">Partidul Social Democrat</nationalPoliticalGroup>
+    <birthDate>02/07/1960</birthDate>
+    <birthPlace>Panciu</birthPlace>
+    <eContact type="EMA">dan.nica@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>10G108</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45448</phone>
+      <fax>0032 2 28 49448</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08139</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75448</phone>
+      <fax>0033 3 88 1 79448</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Angelika NIEBLER</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>4289</id>
+    <nationalPoliticalGroup bodyCode="CSU">Christlich-Soziale Union in Bayern e.V.</nationalPoliticalGroup>
+    <birthDate>18/02/1963</birthDate>
+    <birthPlace>München</birthPlace>
+    <eContact type="EMA">angelika.niebler@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.angelika-niebler.de/</eContact>
+    <eContact type="FBP">https://www.facebook.com/aniebler</eContact>
+    <eContact type="FBW">https://www.facebook.com/aniebler</eContact>
+    <eContact type="TWT">https://twitter.com/ANiebler</eContact>
+    <eContact type="IST">https://www.instagram.com/angelika.niebler</eContact>
+    <eContact type="YTB">https://www.youtube.com/user/AngelikaNiebler</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>14E102</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45390</phone>
+      <fax>0032 2 28 49390</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T11041</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75390</phone>
+      <fax>0033 3 88 1 79390</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Luděk NIEDERMAYER</fullName>
+    <country countryCode="CZ">Czechia</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>124701</id>
+    <nationalPoliticalGroup bodyCode="TOP09/STAN">TOP 09 a Starostové</nationalPoliticalGroup>
+    <birthDate>13/03/1966</birthDate>
+    <birthPlace>Brno</birthPlace>
+    <eContact type="EMA">ludek.niedermayer@europarl.europa.eu</eContact>
+    <eContact type="URL">https://www.niedermayer.cz/</eContact>
+    <eContact type="FBW">https://www.facebook.com/Niedermayer.Ludek</eContact>
+    <eContact type="TWT">https://twitter.com/LudekNie</eContact>
+    <eContact type="IST">https://www.instagram.com/ludekniedermayer/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07F265</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45574</phone>
+      <fax>0032 2 28 49574</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08058</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75574</phone>
+      <fax>0033 3 88 1 79574</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Niklas NIENAß</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197465</id>
+    <nationalPoliticalGroup bodyCode="GRÜNE.">Bündnis 90/Die Grünen</nationalPoliticalGroup>
+    <birthDate>14/04/1992</birthDate>
+    <birthPlace>Marl</birthPlace>
+    <eContact type="EMA">niklas.nienass@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/nnienass</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08H354</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45220</phone>
+      <fax>0032 2 28 49220</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M01043</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75220</phone>
+      <fax>0033 3 88 1 79220</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Ville NIINISTÖ</fullName>
+    <country countryCode="FI">Finland</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197802</id>
+    <nationalPoliticalGroup bodyCode="VIHR">Vihreä liitto</nationalPoliticalGroup>
+    <birthDate>30/07/1976</birthDate>
+    <birthPlace>Turku</birthPlace>
+    <eContact type="EMA">ville.niinisto@europarl.europa.eu</eContact>
+    <eContact type="URL">https://www.villeniinisto.fi</eContact>
+    <eContact type="IST">https://www.instagram.com/villeniinisto</eContact>
+    <eContact type="EMA">https://www.facebook.com/niinistoville</eContact>
+    <eContact type="TWT">https://www.twitter.com/villeniinisto</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G146</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45256</phone>
+      <fax>0032 2 28 49256</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03046</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75256</phone>
+      <fax>0033 3 88 1 79256</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Lefteris NIKOLAOU-ALAVANOS</fullName>
+    <country countryCode="GR">Greece</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>197734</id>
+    <nationalPoliticalGroup bodyCode="KKE">Communist Party of Greece</nationalPoliticalGroup>
+    <birthDate>07/02/1985</birthDate>
+    <birthPlace>Athens</birthPlace>
+    <eContact type="EMA">lefteris.nikolaou@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>03E252</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45603</phone>
+      <fax>0032 2 28 49603</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M04001</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75603</phone>
+      <fax>0033 3 88 1 79603</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Gheorghe-Vlad NISTOR</fullName>
+    <country countryCode="RO">Romania</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>202112</id>
+    <nationalPoliticalGroup bodyCode="PNL">Partidul Naţional Liberal</nationalPoliticalGroup>
+    <birthDate>25/07/1954</birthDate>
+    <birthPlace>București</birthPlace>
+    <eContact type="EMA">gheorghe-vlad.nistor@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>11E116</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45861</phone>
+      <fax>0032 2 28 49861</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T13033</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75861</phone>
+      <fax>0033 3 88 1 79861</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Maria NOICHL</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>124836</id>
+    <nationalPoliticalGroup bodyCode="SPD">Sozialdemokratische Partei Deutschlands</nationalPoliticalGroup>
+    <birthDate>09/01/1967</birthDate>
+    <birthPlace>Rosenheim</birthPlace>
+    <eContact type="EMA">maria.noichl@europarl.europa.eu</eContact>
+    <eContact type="URL">http://maria-noichl.eu/</eContact>
+    <eContact type="FBP">https://www.facebook.com/noichl.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>12G108</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45157</phone>
+      <fax>0032 2 28 49157</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07045</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75157</phone>
+      <fax>0033 3 88 1 79157</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Ljudmila NOVAK</fullName>
+    <country countryCode="SI">Slovenia</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>28294</id>
+    <nationalPoliticalGroup bodyCode="NSi-KD">Nova Slovenija – Krščanski demokrati</nationalPoliticalGroup>
+    <birthDate>01/08/1959</birthDate>
+    <birthPlace>Maribor</birthPlace>
+    <eContact type="EMA">Ljudmila.novak@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/ljudmila.novak/</eContact>
+    <eContact type="URL">https://www.ljudmilanovak.eu/</eContact>
+    <eContact type="TWT">https://twitter.com/ljudmilanovak</eContact>
+    <eContact type="FBW">https://www.facebook.com/ljudmila.novak/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E254</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45752</phone>
+      <fax>0032 2 28 49752</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08025</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75752</phone>
+      <fax>0033 3 88 1 79752</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Andrey NOVAKOV</fullName>
+    <country countryCode="BG">Bulgaria</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>107212</id>
+    <nationalPoliticalGroup bodyCode="GERB">Citizens for European Development of Bulgaria</nationalPoliticalGroup>
+    <birthDate>07/07/1988</birthDate>
+    <birthPlace>PAZARDZHIK</birthPlace>
+    <eContact type="EMA">andrey.novakov@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/andrey.novakov</eContact>
+    <eContact type="TWT">https://twitter.com/andreynovakov</eContact>
+    <eContact type="URL">http://andreynovakov.eu/</eContact>
+    <eContact type="IST">https://www.instagram.com/novakov.a/</eContact>
+    <eContact type="FBP">https://www.facebook.com/andrey.novakov</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08F243</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45710</phone>
+      <fax>0032 2 28 49710</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T09153</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75710</phone>
+      <fax>0033 3 88 1 79710</fax>
+    </address>
+  </mep>
+</meps>

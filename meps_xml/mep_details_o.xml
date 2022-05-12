@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Janina OCHOJSKA</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197542</id>
+    <nationalPoliticalGroup bodyCode="Independent">Independent</nationalPoliticalGroup>
+    <birthDate>12/03/1955</birthDate>
+    <birthPlace>Gdánsk</birthPlace>
+    <eContact type="EMA">janina.ochojska@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.jankaochojska.pl</eContact>
+    <eContact type="FBW">https://www.facebook.com/janka.ochojska</eContact>
+    <eContact type="TWT">https://twitter.com/JaninaOchojska</eContact>
+    <eContact type="IST">https://www.instagram.com/jankaochojska</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E262</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45162</phone>
+      <fax>0032 2 28 49162</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T07062</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75162</phone>
+      <fax>0033 3 88 1 79162</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jan-Christoph OETJEN</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197432</id>
+    <nationalPoliticalGroup bodyCode="FDP">Freie Demokratische Partei</nationalPoliticalGroup>
+    <birthDate>21/02/1978</birthDate>
+    <birthPlace>Rotenburg (Wümme)</birthPlace>
+    <eContact type="URL">https://janchristoph-oetjen.europa.fdp.de/</eContact>
+    <eContact type="FBW">https://www.facebook.com/Oetjen.Jan.Christoph/</eContact>
+    <eContact type="TWT">https://twitter.com/jcoetjen</eContact>
+    <eContact type="EMA">jan-christoph.oetjen@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>03M021</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45640</phone>
+      <fax>0032 2 28 49640</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M03098</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75640</phone>
+      <fax>0033 3 88 1 79640</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jan OLBRYCHT</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>28288</id>
+    <nationalPoliticalGroup bodyCode="PO">Platforma Obywatelska</nationalPoliticalGroup>
+    <birthDate>21/09/1952</birthDate>
+    <birthPlace>Rybnik</birthPlace>
+    <eContact type="EMA">jan.olbrycht@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/J.Olbrycht</eContact>
+    <eContact type="IST">https://www.instagram.com/janolbrycht</eContact>
+    <eContact type="TWT">http://twitter.com/JanOlbrycht</eContact>
+    <eContact type="URL">http://janolbrycht.pl/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E130</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45511</phone>
+      <fax>0032 2 28 49511</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10061</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75511</phone>
+      <fax>0033 3 88 1 79511</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Juozas OLEKAS</fullName>
+    <country countryCode="LT">Lithuania</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197838</id>
+    <nationalPoliticalGroup bodyCode="LSDP">Lietuvos socialdemokratų partija</nationalPoliticalGroup>
+    <birthDate>30/10/1955</birthDate>
+    <birthPlace>Mazas Ungutas</birthPlace>
+    <eContact type="EMA">juozas.olekas@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/juozas.olekas.5</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>11G302</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45358</phone>
+      <fax>0032 2 28 49358</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T08005</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75358</phone>
+      <fax>0033 3 88 1 79358</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Philippe OLIVIER</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197687</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>30/08/1961</birthDate>
+    <birthPlace>Juvisy sur Orge</birthPlace>
+    <eContact type="EMA">philippe.olivier@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05F266</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45638</phone>
+      <fax>0032 2 28 49638</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07013</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75638</phone>
+      <fax>0033 3 88 1 79638</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Younous OMARJEE</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="The Left">The Left group in the European Parliament - GUE/NGL</politicalGroup>
+    <id>30482</id>
+    <nationalPoliticalGroup bodyCode="LFI">La France Insoumise</nationalPoliticalGroup>
+    <birthDate>30/09/1969</birthDate>
+    <birthPlace>Saint-Denis (Réunion)</birthPlace>
+    <eContact type="EMA">younous.omarjee@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/younousomarjee</eContact>
+    <eContact type="IST">https://www.instagram.com/younousomarjee</eContact>
+    <eContact type="FBP">https://www.facebook.com/younous.omarjee</eContact>
+    <eContact type="FBW">https://www.facebook.com/pages/category/politician/Younous-Omarjee-2310917338926472</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05E240</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45643</phone>
+      <fax>0032 2 28 49643</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T06087</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75643</phone>
+      <fax>0033 3 88 1 79643</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Grace O'SULLIVAN</fullName>
+    <country countryCode="IE">Ireland</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197889</id>
+    <nationalPoliticalGroup bodyCode="GP">Green Party</nationalPoliticalGroup>
+    <birthDate>08/03/1962</birthDate>
+    <birthPlace>Waterford</birthPlace>
+    <eContact type="EMA">grace.osullivan@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/graceosllvn</eContact>
+    <eContact type="FBW">https://www.facebook.com/GraceOSullivanIE/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>09G101</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45588</phone>
+      <fax>0032 2 28 49588</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03058</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75588</phone>
+      <fax>0033 3 88 1 79588</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Henrik OVERGAARD NIELSEN</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>197712</id>
+    <nationalPoliticalGroup bodyCode="BREX">The Brexit Party</nationalPoliticalGroup>
+    <birthDate>02/08/1959</birthDate>
+    <birthPlace>Frederiksberg</birthPlace>
+    <eContact type="EMA">henrik.overgaardnielsen@europarl.europa.eu</eContact>
+    <eContact type="TWT">https://twitter.com/brexithenrik</eContact>
+    <eContact type="EMA">drhnielsen@gmail.com</eContact>
+  </mep>
+</meps>

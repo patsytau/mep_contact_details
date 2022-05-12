@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Salima YENBOU</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197511</id>
+    <nationalPoliticalGroup bodyCode="Europe Écologie">Europe Écologie</nationalPoliticalGroup>
+    <birthDate>14/03/1971</birthDate>
+    <birthPlace>Aubervilliers</birthPlace>
+    <eContact type="EMA">salima.yenbou@europarl.europa.eu</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>07M083</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45740</phone>
+      <fax>0032 2 28 49740</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02054</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75740</phone>
+      <fax>0033 3 88 1 79740</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Stéphanie YON-COURTIN</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197581</id>
+    <nationalPoliticalGroup bodyCode="LaREM/MoDEM">Liste Renaissance</nationalPoliticalGroup>
+    <birthDate>28/03/1974</birthDate>
+    <birthPlace>Coutances</birthPlace>
+    <eContact type="EMA">stephanie.yon@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/StephanieYonCourtin/</eContact>
+    <eContact type="TWT">https://twitter.com/s_yoncourtin</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>04M021</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45582</phone>
+      <fax>0032 2 28 49582</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02017</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75582</phone>
+      <fax>0033 3 88 1 79582</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Elena YONCHEVA</fullName>
+    <country countryCode="BG">Bulgaria</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197842</id>
+    <nationalPoliticalGroup bodyCode="BSP">Bulgarian Socialist Party</nationalPoliticalGroup>
+    <birthDate>27/05/1964</birthDate>
+    <birthPlace>Sofia</birthPlace>
+    <eContact type="EMA">elena.yoncheva@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>11G165</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45236</phone>
+      <fax>0032 2 28 49236</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05017</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75236</phone>
+      <fax>0033 3 88 1 79236</fax>
+    </address>
+  </mep>
+</meps>

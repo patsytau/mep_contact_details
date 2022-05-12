@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meps>
+  <mep>
+    <fullName>Yannick JADOT</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>96740</id>
+    <nationalPoliticalGroup bodyCode="Europe Écologie">Europe Écologie</nationalPoliticalGroup>
+    <birthDate>27/07/1967</birthDate>
+    <birthPlace>Clacy et Thierret</birthPlace>
+    <eContact type="EMA">yannick.jadot@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.yannickjadot.fr/</eContact>
+    <eContact type="TWT">https://twitter.com/yjadot</eContact>
+    <eContact type="FBW">https://www.facebook.com/yannick.jadot</eContact>
+    <eContact type="FBP">https://www.facebook.com/#!/yannick.jadot</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08G317</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45375</phone>
+      <fax>0032 2 28 49375</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M02040</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75375</phone>
+      <fax>0033 3 88 1 79375</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Peter JAHR</fullName>
+    <country countryCode="DE">Germany</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>96772</id>
+    <nationalPoliticalGroup bodyCode="CDU">Christlich Demokratische Union Deutschlands</nationalPoliticalGroup>
+    <birthDate>24/04/1959</birthDate>
+    <birthPlace>Burgstädt</birthPlace>
+    <eContact type="EMA">peter.jahr@europarl.europa.eu</eContact>
+    <eContact type="URL">http://www.peter-jahr.de/</eContact>
+    <eContact type="TWT">https://twitter.com/peter_jahr</eContact>
+    <eContact type="FBW">https://www.facebook.com/DrPeterJahr/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>15E157</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45195</phone>
+      <fax>0032 2 28 49195</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T11037</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75195</phone>
+      <fax>0033 3 88 1 79195</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Stasys JAKELIŪNAS</fullName>
+    <country countryCode="LT">Lithuania</country>
+    <politicalGroup bodyCode="Greens/EFA">Group of the Greens/European Free Alliance</politicalGroup>
+    <id>197837</id>
+    <nationalPoliticalGroup bodyCode="Ind.">Independent</nationalPoliticalGroup>
+    <birthDate>02/10/1958</birthDate>
+    <birthPlace>Karaganda</birthPlace>
+    <eContact type="EMA">stasys.jakeliunas@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>08H154</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45679</phone>
+      <fax>0032 2 28 49679</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T03040</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75679</phone>
+      <fax>0033 3 88 1 79679</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Patryk JAKI</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>197516</id>
+    <nationalPoliticalGroup bodyCode="SPZZ">Solidarna Polska Zbigniewa Ziobro</nationalPoliticalGroup>
+    <birthDate>11/05/1985</birthDate>
+    <birthPlace>Opole</birthPlace>
+    <eContact type="EMA">patryktomasz.jaki@europarl.europa.eu</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>03U030</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45181</phone>
+      <fax>0032 2 28 49181</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G01013</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75181</phone>
+      <fax>0033 3 88 1 79181</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jean-François JALKH</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>124770</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>23/05/1957</birthDate>
+    <birthPlace>Tournan-en-Brie</birthPlace>
+    <eContact type="EMA">jean-francois.jalkh@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/jfjalkh/</eContact>
+    <eContact type="TWT">https://twitter.com/JFJalkh</eContact>
+    <eContact type="TWT">https://twitter.com/JFJalkh</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05F255</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45252</phone>
+      <fax>0032 2 28 49252</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07015</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75252</phone>
+      <fax>0033 3 88 1 79252</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>France JAMET</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>189065</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>05/02/1961</birthDate>
+    <birthPlace>Paris</birthPlace>
+    <eContact type="EMA">france.jamet@europarl.europa.eu</eContact>
+    <eContact type="URL">https://francejamet.com/</eContact>
+    <eContact type="FBW">https://www.facebook.com/JametFrance/</eContact>
+    <eContact type="TWT">https://twitter.com/francejamet</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>04F247</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45166</phone>
+      <fax>0032 2 28 49166</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07041</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75166</phone>
+      <fax>0033 3 88 1 79166</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Lívia JÁRÓKA</fullName>
+    <country countryCode="HU">Hungary</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>28141</id>
+    <nationalPoliticalGroup bodyCode="Fidesz-KDNP">Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt</nationalPoliticalGroup>
+    <birthDate>06/10/1974</birthDate>
+    <birthPlace>Tata</birthPlace>
+    <eContact type="EMA">livia.jaroka@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/jarokalivia/</eContact>
+    <eContact type="FBW">https://www.facebook.com/JarokaLivia/</eContact>
+    <eContact type="URL">https://jaroka.fidesz-eu.hu/en/</eContact>
+    <eContact type="TWT">https://twitter.com/JarokaLivia</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>03F364</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45544</phone>
+      <fax>0032 2 28 49544</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G05001</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75544</phone>
+      <fax>0033 3 88 1 79544</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Adam JARUBAS</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197517</id>
+    <nationalPoliticalGroup bodyCode="PSL">Polskie Stronnictwo Ludowe</nationalPoliticalGroup>
+    <birthDate>17/12/1974</birthDate>
+    <birthPlace>Busko-Zdroj</birthPlace>
+    <eContact type="EMA">adam.jarubas@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/JarubasAdam/</eContact>
+    <eContact type="TWT">https://twitter.com/JarubasAdam</eContact>
+    <eContact type="IST">https://www.instagram.com/jarubasadam/</eContact>
+    <eContact type="URL">https://jarubasadam.pl/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13E154</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45552</phone>
+      <fax>0032 2 28 49552</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10030</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75552</phone>
+      <fax>0033 3 88 1 79552</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Romana JERKOVIĆ</fullName>
+    <country countryCode="HR">Croatia</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>112747</id>
+    <nationalPoliticalGroup bodyCode="SDP">Socijaldemokratska partija Hrvatske</nationalPoliticalGroup>
+    <birthDate>28/11/1964</birthDate>
+    <birthPlace>Split</birthPlace>
+    <eContact type="EMA">romana.jerkovic@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/JerkovicRomana</eContact>
+    <eContact type="TWT">https://twitter.com/JerkovicRomana</eContact>
+    <eContact type="IST">https://www.instagram.com/romanajerkovicmep/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>13G209</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45689</phone>
+      <fax>0032 2 28 49689</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05040</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75689</phone>
+      <fax>0033 3 88 1 79689</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Jackie JONES</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>197758</id>
+    <nationalPoliticalGroup bodyCode="Lab.">Labour Party</nationalPoliticalGroup>
+    <eContact type="EMA">jackie.jones@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/welshlabourforeurope/</eContact>
+    <eContact type="EMA">jmjfourjones@gmail.com</eContact>
+    <eContact type="TWT">https://twitter.com/JackieJonesWal1</eContact>
+  </mep>
+  <mep>
+    <fullName>Agnes JONGERIUS</fullName>
+    <country countryCode="NL">Netherlands</country>
+    <politicalGroup bodyCode="S&amp;D">Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</politicalGroup>
+    <id>125021</id>
+    <nationalPoliticalGroup bodyCode="PvdA">Partij van de Arbeid</nationalPoliticalGroup>
+    <birthDate>04/11/1960</birthDate>
+    <birthPlace>Vleuten-De-Meern</birthPlace>
+    <eContact type="EMA">agnes.jongerius@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/AgnesJongeriusMEP/</eContact>
+    <eContact type="TWT">https://twitter.com/a_jongerius</eContact>
+    <eContact type="IST">https://www.instagram.com/agnesjongerius</eContact>
+    <eContact type="URL">https://www.agnesvooreuropa.nl/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>15G108</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45699</phone>
+      <fax>0032 2 28 49699</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T05145</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75699</phone>
+      <fax>0033 3 88 1 79699</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Christina Sheila JORDAN</fullName>
+    <country countryCode="GB">United Kingdom</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>197752</id>
+    <nationalPoliticalGroup bodyCode="BREX">The Brexit Party</nationalPoliticalGroup>
+    <eContact type="EMA">christina.jordan@europarl.europa.eu</eContact>
+  </mep>
+  <mep>
+    <fullName>Virginie JORON</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197627</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>11/12/1973</birthDate>
+    <birthPlace>Troyes</birthPlace>
+    <eContact type="EMA">virginie.joron@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/virginie.joron67</eContact>
+    <eContact type="TWT">https://twitter.com/v_joron</eContact>
+    <eContact type="FBW">https://www.facebook.com/virginiejoronfn/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>04F163</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45440</phone>
+      <fax>0032 2 28 49440</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07047</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75440</phone>
+      <fax>0033 3 88 1 79440</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Irena JOVEVA</fullName>
+    <country countryCode="SI">Slovenia</country>
+    <politicalGroup bodyCode="Renew">Renew Europe Group</politicalGroup>
+    <id>197447</id>
+    <nationalPoliticalGroup bodyCode=" LMŠ">Lista Marjana Šarca</nationalPoliticalGroup>
+    <birthDate>26/02/1989</birthDate>
+    <eContact type="EMA">irena.joveva@europarl.europa.eu</eContact>
+    <eContact type="IST">https://www.instagram.com/ijoveva/</eContact>
+    <eContact type="FBW">https://www.facebook.com/ijoveva/</eContact>
+    <eContact type="TWT">https://twitter.com/ijoveva</eContact>
+    <eContact type="URL">www.irenajoveva.si</eContact>
+    <address>
+      <building>WILLY BRANDT</building>
+      <office>03M073</office>
+      <addressLine id="1">Rue de Trèves 5</addressLine>
+      <addressLine id="2">B-1047 Bruxelles</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45489</phone>
+      <fax>0032 2 28 49489</fax>
+    </address>
+    <address>
+      <building>WINSTON CHURCHILL</building>
+      <office>M06098</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75489</phone>
+      <fax>0033 3 88 1 79489</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Rasa JUKNEVIČIENĖ</fullName>
+    <country countryCode="LT">Lithuania</country>
+    <politicalGroup bodyCode="EPP">Group of the European People's Party (Christian Democrats)</politicalGroup>
+    <id>197840</id>
+    <nationalPoliticalGroup bodyCode="TS-LKD">Tėvynės sąjunga-Lietuvos krikščionys demokratai</nationalPoliticalGroup>
+    <birthDate>26/01/1958</birthDate>
+    <birthPlace>Panevėžys</birthPlace>
+    <eContact type="EMA">rasa.jukneviciene@europarl.europa.eu</eContact>
+    <eContact type="FBW">https://www.facebook.com/rasa.jukneviciene</eContact>
+    <eContact type="TWT">https://twitter.com/RJukneviciene</eContact>
+    <eContact type="URL">https://elpnariai.lt/</eContact>
+    <eContact type="IST">https://www.instagram.com/rasa_jukneviciene/</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>07F364</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45592</phone>
+      <fax>0032 2 28 49592</fax>
+    </address>
+    <address>
+      <building>LOUISE WEISS</building>
+      <office>T10149</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Allée du Printemps</addressLine>
+      <addressLine id="3">BP 1024/F</addressLine>
+      <addressLine id="4">F-67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75592</phone>
+      <fax>0033 3 88 1 79592</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Oriol JUNQUERAS I VIES</fullName>
+    <country countryCode="ES">Spain</country>
+    <politicalGroup bodyCode="NI">Non-attached Members</politicalGroup>
+    <id>96708</id>
+    <nationalPoliticalGroup bodyCode="ERC">Esquerra Republicana de Catalunya</nationalPoliticalGroup>
+    <birthDate>11/04/1969</birthDate>
+    <birthPlace>Barcelona</birthPlace>
+    <eContact type="FBW">http://www.facebook.com/junqueras?sk=wall</eContact>
+  </mep>
+  <mep>
+    <fullName>Krzysztof JURGIEL</fullName>
+    <country countryCode="PL">Poland</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>197518</id>
+    <nationalPoliticalGroup bodyCode="PiS">Prawo i Sprawiedliwość</nationalPoliticalGroup>
+    <birthDate>18/11/1953</birthDate>
+    <birthPlace>Ogrodniki</birthPlace>
+    <eContact type="EMA">krzysztof.jurgiel@europarl.europa.eu</eContact>
+    <eContact type="FBP">https://www.facebook.com/krzysztof.jurgiel</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>01U026</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45351</phone>
+      <fax>0032 2 28 49351</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G02013</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75351</phone>
+      <fax>0033 3 88 1 79351</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Eugen JURZYCA</fullName>
+    <country countryCode="SK">Slovakia</country>
+    <politicalGroup bodyCode="ECR">European Conservatives and Reformists Group</politicalGroup>
+    <id>197767</id>
+    <nationalPoliticalGroup bodyCode="SaS">Sloboda a Solidarita</nationalPoliticalGroup>
+    <birthDate>08/02/1958</birthDate>
+    <birthPlace>Bratislava</birthPlace>
+    <eContact type="EMA">eugen.jurzyca@europarl.europa.eu</eContact>
+    <eContact type="URL">http://eugenjurzyca.sk/</eContact>
+    <eContact type="FBW">https://www.facebook.com/eugen.jurzyca.sk/</eContact>
+    <eContact type="TWT">https://twitter.com/EugenJurzyca</eContact>
+    <eContact type="IST">https://www.instagram.com/eugenjurzyca/</eContact>
+    <address>
+      <building>SOPHIE SCHOLL</building>
+      <office>05U038</office>
+      <addressLine id="1">Parlement européen </addressLine>
+      <addressLine id="2">50, rue Wiertz / Wiertzstraat 50 </addressLine>
+      <addressLine id="3">B-1047  Bruxelles / Brussel </addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45107</phone>
+      <fax>0032 2 28 49107</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G02034</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75107</phone>
+      <fax>0033 3 88 1 79107</fax>
+    </address>
+  </mep>
+  <mep>
+    <fullName>Herve JUVIN</fullName>
+    <country countryCode="FR">France</country>
+    <politicalGroup bodyCode="ID">Identity and Democracy Group</politicalGroup>
+    <id>197626</id>
+    <nationalPoliticalGroup bodyCode="RN">Rassemblement national</nationalPoliticalGroup>
+    <birthDate>29/01/1956</birthDate>
+    <birthPlace>MALESTROIT</birthPlace>
+    <eContact type="EMA">herve.juvin@europarl.europa.eu</eContact>
+    <address>
+      <building>ALTIERO SPINELLI</building>
+      <office>05F259</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">60, rue Wiertz / Wiertzstraat 60</addressLine>
+      <addressLine id="3">B-1047 Bruxelles / Brussel</addressLine>
+      <town townCode="BRU">Bruxelles</town>
+      <country countryCode="BE">Belgium</country>
+      <phone>0032 2 28 45182</phone>
+      <fax>0032 2 28 49182</fax>
+    </address>
+    <address>
+      <building>SALVADOR DE MADARIAGA</building>
+      <office>G07049</office>
+      <addressLine id="1">Parlement européen</addressLine>
+      <addressLine id="2">Avenue du Pdt Robert Schuman</addressLine>
+      <addressLine id="3">F 67070 Strasbourg cedex</addressLine>
+      <town townCode="STR">Strasbourg</town>
+      <country countryCode="FR">France</country>
+      <phone>0033 3 88 1 75182</phone>
+      <fax>0033 3 88 1 79182</fax>
+    </address>
+  </mep>
+</meps>
