@@ -54,7 +54,7 @@ def write_data(relevant_data: dict, country: str):
     output_folder = "contact_details"
     os.makedirs(output_folder, exist_ok=True)
     with open(f"{output_folder}/data_{country_code}.csv", mode="w", encoding="utf-8") as fd:
-        fd.write("name,email,eu_group,national_group\n")
+        fd.write("name#email#eu_group#national_group\n")
         for name, details in relevant_data.items():
             names = [fix_name_case(n) for n in name.split(' ')]
             fd.write(f"{' '.join(names)}#{details['email']}#{details['eu_group']}#{details['national_group']}\n")
